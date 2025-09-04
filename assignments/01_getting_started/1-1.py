@@ -7,5 +7,3 @@
 
 # “Getting Started” (Beginners) page explains what Python is good for and how to learn it.
 
-message = "get ready for python!"
-print(message)
