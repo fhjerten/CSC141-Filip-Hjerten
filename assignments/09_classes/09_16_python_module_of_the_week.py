@@ -1,0 +1,3 @@
+
+# I visited The python module of the week website and read about the random module. The random module lets you make random numbers or choose random items. For example, you can use randint() to get a random number, or choice() to pick something from a list. You can also use shuffle() to mix up a list.
+# It is useful for games or porjects that need random results, like rolling dice or lottery. I liked learning about it because it connects to the dice and lottery exercise I just did.
