@@ -1,0 +1,6 @@
+Python is a simple language to learn.
+You can use Python to print messages on the screen.
+Python lets you make lists and loops to repeat things.
+You can write your own functions to organize your code.
+Python can also use classes to build small programs.
+
