@@ -5,7 +5,6 @@ pygame.init()
 
 # This is for the empty window
 screen = pygame.display.set_mode((800, 600))
-pygame.display.set_caption("Exercise 12-5: Keys")
 
 while True:
     for event in pygame.event.get():
@@ -19,3 +18,4 @@ while True:
     # The white background
     screen.fill((255, 255, 255))
     pygame.display.flip()
+
